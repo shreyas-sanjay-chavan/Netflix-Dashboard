@@ -64,4 +64,7 @@ The dashboard uncovers trends in content type, genre distribution, country contr
 - Dashboard Design
 - Analytical Thinking
 
+![Netflix Dashboard](netflix_dashboard.png)
+
+
 This project is created for learning and portfolio purposes.
