@@ -1,39 +1,67 @@
-# Netflix Dashboard 📊
+# 📊 Netflix Dashboard | Power BI Project
 
 ## 📌 Project Overview
-This project is a **Netflix Dashboard** created using **Microsoft Power BI** to analyze and visualize Netflix content data.  
-The dashboard provides insights into movies and TV shows based on genre, release year, ratings, country, and duration.
+This project presents an interactive Netflix Dashboard built using Microsoft Power BI to analyze global Netflix content data. 
+
+The dashboard uncovers trends in content type, genre distribution, country contribution, release patterns, and audience ratings.
+
+---
+
+## 🗂 Dataset Information
+- Source: Public Netflix dataset (Kaggle)
+- Records: 8,000+ titles
+- Attributes analyzed: Title, Type, Country, Genre, Release Year, Rating, Duration
+
+---
 
 ## 🛠 Tools & Technologies
 - Microsoft Power BI
-- Data Visualization
-- Data Analysis
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX (Data Analysis Expressions)
+- Interactive Data Visualization
 
-## 📂 Files Included
-- `NETFLIX.pbit` – Power BI dashboard file
-- `README.md` – Project documentation
+---
 
-## 📈 Key Insights
-- Distribution of Movies vs TV Shows
-- Content trends over the years
-- Genre-wise content analysis
-- Country-wise content availability
-- Ratings and duration insights
+## 📊 Key Business Insights
 
-## 🎯 Objective
-The objective of this project is to:
-- Practice data visualization skills
-- Create an interactive dashboard
-- Gain insights from entertainment industry data
-- Showcase Power BI skills for academic and professional purposes
+- 📌 Movies constitute a higher percentage compared to TV Shows.
+- 📌 Significant increase in content additions after 2015.
+- 📌 United States contributes the highest number of titles.
+- 📌 Drama and International genres dominate the catalog.
+- 📌 TV Shows typically have 1–2 seasons.
+
+---
+
+## 📷 Dashboard Preview
+(Add dashboard screenshot here)
+
+---
+
+## 🎯 Project Objective
+
+- Develop interactive visualization skills
+- Perform exploratory data analysis
+- Derive actionable insights from real-world entertainment data
+- Showcase Power BI proficiency for Data Analyst roles
+
+---
 
 ## 🚀 How to Use
-1. Download the `NETFLIX.pbit` file
-2. Open it using **Microsoft Power BI Desktop**
-3. Explore the interactive dashboard
 
-## 👤 Author
-**Shreyas Chavan**
+1. Download the `NETFLIX.pbit` file.
+2. Open using Microsoft Power BI Desktop.
+3. Load dataset when prompted.
+4. Explore interactive filters and visualizations.
 
-## 📌 Note
+---
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Visualization
+- Business Insight Extraction
+- Dashboard Design
+- Analytical Thinking
+
 This project is created for learning and portfolio purposes.
